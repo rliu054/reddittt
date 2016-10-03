@@ -129,6 +129,7 @@
     <orderEntry type="library" scope="PROVIDED" name="activemodel (v5.0.0.1, ruby-2.3.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v5.0.0.1, ruby-2.3.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v5.0.0.1, ruby-2.3.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="acts_as_votable (v0.10.0, ruby-2.3.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v7.1.2, ruby-2.3.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="autoprefixer-rails (v6.4.1, ruby-2.3.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bcrypt (v3.1.11, ruby-2.3.0-p0) [gem]" level="application" />
