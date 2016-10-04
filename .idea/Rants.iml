@@ -173,6 +173,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rake (v11.3.0, ruby-2.3.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rb-fsevent (v0.9.7, ruby-2.3.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rb-inotify (v0.9.7, ruby-2.3.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="record_tag_helper (v1.0.0, ruby-2.3.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="responders (v2.3.0, ruby-2.3.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.4.22, ruby-2.3.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v5.0.6, ruby-2.3.0-p0) [gem]" level="application" />
