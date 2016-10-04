@@ -1,24 +1,15 @@
-# README
+# [Rants](https://thawing-citadel-45864.herokuapp.com/) 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[Rants](https://thawing-citadel-45864.herokuapp.com/) is a minimalistic Reddit-like web app. 
 
-Things you may want to cover:
+You can:
+- Submit a link
+- Upvote/downvote a link
+- Leave comments 
 
-* Ruby version
+## Heroku
+[Rants](https://thawing-citadel-45864.herokuapp.com/) is live on the [Heroku](https://www.heroku.com/) platform.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Version
+* Rails: 5.0.1
+* Ruby: 2.3.0
