@@ -1,6 +1,6 @@
-# [Rants](https://thawing-citadel-45864.herokuapp.com/) 
+# [Rants](https://rantsapp.herokuapp.com/) 
 
-[Rants](https://thawing-citadel-45864.herokuapp.com/) is a minimalistic Reddit-like web app. 
+[Rants](https://rantsapp.herokuapp.com/) is a minimalistic Reddit-like web app. 
 
 You can:
 - Submit a link
@@ -8,7 +8,7 @@ You can:
 - Leave comments 
 
 ## Heroku
-[Rants](https://thawing-citadel-45864.herokuapp.com/) is live on the [Heroku](https://www.heroku.com/) platform.
+[Rants](https://rantsapp.herokuapp.com/) is live on the [Heroku](https://www.heroku.com/) platform.
 
 ## Version
 * Rails: 5.0.1
