@@ -1,6 +1,6 @@
-# [Rants](https://rantsapp.herokuapp.com/) 
+# [reddittt](https://reddittt.herokuapp.com/) 
 
-[Rants](https://rantsapp.herokuapp.com/) is a minimalistic Reddit-like web app. 
+[reddittt](https://reddittt.herokuapp.com/) is a Reddit-like web app. 
 
 You can:
 - Submit a link
@@ -8,7 +8,7 @@ You can:
 - Leave comments 
 
 ## Heroku
-[Rants](https://rantsapp.herokuapp.com/) is live on the [Heroku](https://www.heroku.com/) platform.
+[reddittt](https://rantsapp.herokuapp.com/) is live on [Heroku](https://www.heroku.com/).
 
 ## Version
 * Rails: 5.0.1
